@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mapview4</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
